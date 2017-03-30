@@ -20,6 +20,7 @@ Some possible mockup pages include:
 * User Homepage (Showing both games in and games lead).
 * Procedural Game Pages (with admin page abilities).
 * Browse games based on system and times
+* Calender page to show upcoming events.
 
 ## Use Case Ideas
 Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.
