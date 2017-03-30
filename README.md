@@ -22,6 +22,7 @@ Some possible mockup pages include:
 * Browse games based on system and times
 
 ## Use Case Ideas
+Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.
 * Game master goes to landing page, logs in, publishes game for people to join.
 * Prospective player goes to landing page, logs in, searches games to see what fits their schedule, joins the game.
 * Game runner wants to change what time their game happens, goes to landing page, logs in, goes to their game page, edits the content. 
