@@ -21,6 +21,11 @@ Some possible mockup pages include:
 * Procedural Game Pages (with admin page abilities).
 * Browse games based on system and times
 
+## Use Case Ideas
+* Game master goes to landing page, logs in, publishes game for people to join.
+* Prospective player goes to landing page, logs in, searches games to see what fits their schedule, joins the game.
+* Game runner wants to change what time their game happens, goes to landing page, logs in, goes to their game page, edits the content. 
+
 
 ## Beyond the Basics
 After implementing the basic functionality, here are ideas for more advanced features:
